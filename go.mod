@@ -1,4 +1,4 @@
-module github.com/lord_ofada/naira
+module github.com/lord-ofada/naira
 go 1.13
 
 
